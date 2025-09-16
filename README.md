@@ -26,4 +26,5 @@ i'm a frontend dev & web designer
 ## contributions
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=xprenk&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> </div>
+
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=xprenk&color=blueviolet&style=flat-square&label=i+see+you" alt="Profile Views" /> </div>
