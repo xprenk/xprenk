@@ -4,7 +4,7 @@
 
 ## about
 
-i'm a frontend dev & web designer
+i'm a web designer & frontend dev
 
 ## stuff i know
 ### languages
