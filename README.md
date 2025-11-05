@@ -4,7 +4,7 @@
 
 ## about
 
-i'm a web designer & frontend dev
+i'm a belgian web designer & frontend dev
 
 ## stuff i know
 ### languages
